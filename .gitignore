@@ -46,6 +46,7 @@ assimp-config.cmake
 assimp-config-version.cmake
 assimpTargets*.cmake
 
+
 # MakeFile
 Makefile
 code/Makefile
